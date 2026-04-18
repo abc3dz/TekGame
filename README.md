@@ -1,5 +1,5 @@
 ## TekGame ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-Charts: https://abczezeze.github.io/TekGame/indexdb
+Charts: https://abc3dz.github.io/TekGame/indexdb
 <br>
   
 <br>random name only
